@@ -22,6 +22,8 @@ To create an environment with [MiniConda](https://docs.conda.io/en/latest/minico
  {"label": "textbox", "coordinates": {"x": 889.5, "y": 144.0, "width": 119.0, "height": 32.0}},
  {"label": "textbox", "coordinates": {"x": 309.5, "y": 229.5, "width": 139.0, "height": 27.0}},
  {"label": "textbox", "coordinates": {"x": 79.5, "y": 144.0, "width": 129.0, "height": 32.0}},
+ {"label": "arrow", "coordinates": {"x": 381.0, "y": 291.0, "width": 12.0, "height": 36.0}},
+ {"label": "arrow", "coordinates": {"x": 75.5, "y": 207.5, "width": 13.0, "height": 27.0}},
  ...
 ]}]
 ```
