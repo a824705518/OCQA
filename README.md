@@ -11,15 +11,19 @@ We are currently waiting for the review results. We provide sample for your refe
 
 ![alt text](https://github.com/a824705518/OCQA/raw/main/example/images/000436.jpg)
 
-### Requirements
+### Si2KG
 
 To create an environment with [MiniConda](https://docs.conda.io/en/latest/miniconda.html) and activate it.
 
 ```bash
-conda create -n tat-qa python==3.7
-conda activate tat-qa
-pip install -r requirement.txt
-pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-1.7.0+${CUDA}.html
+[{"image": "000436.jpg", "annotations": [
+ {"label": "textbox", "coordinates": {"x": 754.0, "y": 144.0, "width": 118.0, "height": 32.0}},
+ {"label": "textbox", "coordinates": {"x": 616.0, "y": 144.0, "width": 118.0, "height": 32.0}},
+ {"label": "textbox", "coordinates": {"x": 889.5, "y": 144.0, "width": 119.0, "height": 32.0}},
+ {"label": "textbox", "coordinates": {"x": 309.5, "y": 229.5, "width": 139.0, "height": 27.0}},
+ {"label": "textbox", "coordinates": {"x": 79.5, "y": 144.0, "width": 129.0, "height": 32.0}},
+ ...
+]}]
 ```
 
 We adopt `RoBERTa` as our encoder to develop our TagOp and use the following commands to prepare RoBERTa model 
