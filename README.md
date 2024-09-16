@@ -9,7 +9,7 @@ We are currently waiting for the review results. We provide sample for your refe
 
 ## Example
 
-![alt text](https://github.com/a824705518/OCQA/main/example/images/000436.jpg)
+![alt text](https://github.com/a824705518/OCQA/raw/main/example/images/000436.jpg)
 
 ### Requirements
 
