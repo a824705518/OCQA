@@ -107,4 +107,4 @@ The TAT-QA dataset is under the license of [Creative Commons (CC BY) Attribution
             
 ### Any Questions?
 
-For any issues please create an issue [here](https://github.com/nextplusplus/tat-qa/issues) or kindly drop an email to the author: Fengbin Zhu [zhfengbin@gmail.com](mailto:zhfengbin@gmail.com), thank you.
+If you have any questions, please email the author Liu Jiawang at [liujiawang@mails.qust.edu.cn], thank you.
