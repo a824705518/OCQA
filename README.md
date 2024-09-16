@@ -13,7 +13,7 @@ We are currently waiting for the review results. We provide sample for your refe
 
 ### Si2KG
 
-We annotate the components in a structured image to generate a knowledge graph(KG).
+We annotate the components in a structured image to generate a Knowledge Graph(KG).
 
 ```bash
 [{"image": "000436.jpg", "annotations": [
