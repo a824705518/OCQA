@@ -27,7 +27,7 @@ We annotate the components in a structured image to generate a Knowledge Graph(K
  ...]}]
 ```
 ### QA data
-For the multimodal question answering section, we use a semi-automatic two-stage approach to annotate useful questions and provide corresponding answers for each image, where each image contains at least 5 questions. In the first stage, we generate questions and answers for each image using existing image understanding tools, followed by annotations and corrections for errors and inaccuracies by professionals.
+For the multi-modal question-answering part, we use a semi-automatic two-stage approach to annotate useful questions for each image and provide corresponding answers. Each image is annotated with at least 5 questions. In the first stage, we use existing image understanding tools to generate questions and answers for each image, followed by annotation, correction of errors, and modification of inappropriate content by professional personnel.
 
 ```bash
 [{
