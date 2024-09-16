@@ -107,4 +107,4 @@ The TAT-QA dataset is under the license of [Creative Commons (CC BY) Attribution
             
 ### Any Questions?
 
-If you have any questions, please email the author Liu Jiawang at [liujiawang@mails.qust.edu.cn], thank you.
+If you have any questions, please email the author Jiawang Liu at [liujiawang@mails.qust.edu.cn], thank you.
