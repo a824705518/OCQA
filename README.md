@@ -4,7 +4,7 @@ SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based o
 
 **SCQA** contains 1,000 organizational charts of listed Chinese companies and 5,112 questions that require understanding of the images to be answered.
 
-We are currently waiting for the review results. We provide sample for your reference.
+We are currently waiting for the review results. We provide sample for your reference. **Thank you for your understanding.**
 
 
 ## Example
