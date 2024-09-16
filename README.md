@@ -7,7 +7,7 @@ SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based o
 We are currently waiting for the review results. We provide sample for your reference.
 
 
-## TagOp Model
+## Example
 
 ### Requirements
 
