@@ -31,12 +31,16 @@ To create an environment with [MiniConda](https://docs.conda.io/en/latest/minico
 We adopt `RoBERTa` as our encoder to develop our TagOp and use the following commands to prepare RoBERTa model 
 
 ```bash
-cd dataset_tagop
-mkdir roberta.large && cd roberta.large
-wget -O pytorch_model.bin https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-pytorch_model.bin
-wget -O config.json https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-config.json
-wget -O vocab.json https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-vocab.json
-wget -O merges.txt https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-merges.txt
+[{
+    "uid": "image_000436",
+    "questions":[
+{"order": 1,"question": "中钢天源的下属二级单位都有哪几个？","answer": ["磁材厂","钕铁硼厂"],"answer_from": "Directly","facts": ["磁材厂","钕铁硼厂"],"calculate":0},
+{"order": 2,"question": "中钢天源拥有贵州金瑞多少的股份？","answer": ["26.5%"],"answer_from": "Directly","facts": ["26.5%"],"calculate":0},
+{"order": 3,"question": "中钢天源的全资子公司都有哪几个？","answer": ["湖南特材","通力公司","南京研究院","中唯公司","国知新材料","南京新材料"],"answer_from": "Directly","facts": ["湖南特材","通力公司","南京研究院","中唯公司","国知新材料","南京新材料"],"calculate":0},
+{"order": 4,"question": "中钢天源控制天源智能的多少股份？","answer": ["54.30%"],"answer_from": "Directly","facts": ["54.30%"],"calculate":0},
+{"order": 5,"question": "中钢天源的控股子公司共有几个？","answer": ["3"],"answer_from": "Indirectly","facts": ["金宁三环","中钢制品院","天源智能"],"calculate":1},
+{"order": 6,"question": "研发中心由哪个部门进行管理？","answer": ["中钢天源"],"answer_from": "Directly","facts": ["中钢天源"],"calculate":0}
+]}]
 ```
 
 ### Training & Testing
