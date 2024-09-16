@@ -9,6 +9,8 @@ We are currently waiting for the review results. We provide sample for your refe
 
 ## Example
 
+![alt text](https://github.com/a824705518/OCQA/example/images/000436.jpg)
+
 ### Requirements
 
 To create an environment with [MiniConda](https://docs.conda.io/en/latest/miniconda.html) and activate it.
