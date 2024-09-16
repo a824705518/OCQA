@@ -4,9 +4,7 @@ SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based o
 
 **SCQA** contains 1,000 organizational charts of listed Chinese companies and 5,112 questions that require understanding of the images to be answered.
 
-You can download our TAT-QA dataset via [TAT-QA dataset](https://github.com/NExTplusplus/TAT-QA/tree/master/dataset_raw).
-                
-For more information, please refer to our [TAT-QA website](https://nextplusplus.github.io/TAT-QA/) or read our ACL2021 paper [PDF](https://aclanthology.org/2021.acl-long.254.pdf).
+We are currently waiting for the review results. We provide sample for your reference.
 
 ## Updates 
 
