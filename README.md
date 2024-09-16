@@ -27,7 +27,7 @@ We annotate the components in a structured image to generate a Knowledge Graph(K
  ...]}]
 ```
 ### QA data
-We adopt `RoBERTa` as our encoder to develop our TagOp and use the following commands to prepare RoBERTa model 
+For the multimodal question answering section, we use a semi-automatic two-stage approach to annotate useful questions and provide corresponding answers for each image, where each image contains at least 5 questions. In the first stage, we generate questions and answers for each image using existing image understanding tools, followed by annotations and corrections for errors and inaccuracies by professionals.
 
 ```bash
 [{
