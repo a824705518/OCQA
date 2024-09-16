@@ -13,7 +13,7 @@ We are currently waiting for the review results. We provide sample for your refe
 
 ### Si2KG
 
-To create an environment with [MiniConda](https://docs.conda.io/en/latest/miniconda.html) and activate it.
+We annotate the components in a structured image to generate a knowledge graph(KG).
 
 ```bash
 [{"image": "000436.jpg", "annotations": [
