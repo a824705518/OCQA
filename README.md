@@ -6,13 +6,6 @@ SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based o
 
 We are currently waiting for the review results. We provide sample for your reference.
 
-## Updates 
-
-**${\color{red}Jan 2024:}$**  We release the ground truth for the TAT-QA Test set under the folder [TAT-QA dataset](https://github.com/NExTplusplus/TAT-QA/tree/master/dataset_raw), to facilitate future research on this task!
-
-**${\color{red}May 2023:}$** **[TAT-DQA](https://nextplusplus.github.io/TAT-DQA/)** is released! TAT-DQA is a large-scale Document Visual QA (VQA) dataset, which is constructed by extending the TAT-QA. Please check out it if you are interested in the new task. 
-
-
 
 ## TagOp Model
 
